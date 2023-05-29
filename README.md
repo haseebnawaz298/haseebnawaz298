@@ -23,6 +23,6 @@ Passionate and skilled Full Stack Developer with expertise in PHP and React. I h
 
 📫 Let's connect and collaborate! Feel free to reach out to me for exciting opportunities or to discuss any projects.
 
-📧 Email: haseebnawaz298@gmail.com
-📞 Phone: 03161652298
-💼 LinkedIn: https://www.linkedin.com/in/haseebnawaz298/
+📧 Email: haseebnawaz298@gmail.com <br>
+📞 Phone: 03161652298 <br>
+💼 LinkedIn: https://www.linkedin.com/in/haseebnawaz298/ <br>
