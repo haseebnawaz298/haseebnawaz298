@@ -5,12 +5,11 @@
 ## 💼 Professional Summary:
 Passionate and skilled Full Stack Developer with expertise in PHP and React. I have 6 years of experience developing robust web applications and collaborating in cross-functional teams. My proficiency extends to front-end and back-end development, database management, and API integrations. I'm dedicated to delivering high-quality code and solving complex problems efficiently.
 
-## 🔧 Stats: 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=haseebnawaz298&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb&theme=radical" />
-</div>
 
+## 🔧 Stats: 
+![stats](https://github-readme-stats.vercel.app/api?username=haseebnawaz298&theme=radical)
+![lng](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebnawaz298)
+  
 ## 💥 Intrusted in:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
