@@ -1,4 +1,6 @@
-👋 Hello, I'm Haseeb Nawaz Awan!
+👋 Hello, I'm Haseeb Nawaz Awan! 
+
+<img src="https://komarev.com/ghpvc/?username=haseebnawaz298&label=Profile%20views&color=0e75b6&style=flat" alt="haseebnawaz298" />
 
 👨‍💻 Full Stack Developer | PHP | React
 
@@ -8,7 +10,7 @@ Passionate and skilled Full Stack Developer with expertise in PHP and React. I h
 
 ## 🔧 Stats: 
 ![stats](https://github-readme-stats.vercel.app/api?username=haseebnawaz298&theme=radical)
-![lng](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebnawaz298)
+![lng](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebnawaz298&theme=radical)
   
 ## 💥 Intrusted in:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
