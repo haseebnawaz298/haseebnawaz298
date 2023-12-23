@@ -7,6 +7,8 @@
 ## 💼 Professional Summary:
 Passionate and skilled Full Stack Developer with expertise in PHP and React. I have 6 years of experience developing robust web applications and collaborating in cross-functional teams. My proficiency extends to front-end and back-end development, database management, and API integrations. I'm dedicated to delivering high-quality code and solving complex problems efficiently.
 
+- Check my WordPress Profile <a href="https://profiles.wordpress.org/haseebnawaz298/" target="_blank">here</a>.
+
 
 ## 🔧 Stats: 
 ![stats](https://github-readme-stats.vercel.app/api?username=haseebnawaz298&theme=radical)
